@@ -1,0 +1,2 @@
+
+This is a simple Text file to say Hello in Git
